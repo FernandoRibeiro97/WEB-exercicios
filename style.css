@@ -1,0 +1,35 @@
+body {
+	background: "imagens/fundo.png";
+}
+
+p {
+	background-color: #FACC2E;
+}
+
+a {
+	text-decoration: none;
+}
+
+#principal{
+	width: 900px;
+}
+
+.titulo{
+	font-family: monospace;
+	font-size: 18px;
+}
+
+.topo{
+	width: 50%;
+}
+
+.menu{
+	padding: 15px;
+	align-items: center;
+	font-family: monospace;
+	font-size: 22px;
+}
+
+.alinharFoto{
+	margin-left: 125px;
+}
