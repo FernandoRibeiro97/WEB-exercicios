@@ -8,10 +8,12 @@ p {
 
 a {
 	text-decoration: none;
+	margin-left: 80px;
 }
 
 #principal{
 	width: 900px;
+	margin: 10px auto;
 }
 
 .titulo{
